@@ -32,6 +32,21 @@
 - Share **organ/blood donation intent** or family-approved donor details.
 - Browse donor listings and **contact seamlessly** in times of need.
 
+Key Features
+Centralized digital health records management
+Blood donor-recipient matching system
+Anonymous health assistance and support requests
+Medication and appointment reminders
+Smart hospital and healthcare facility search
+Secure authentication and real-time notifications
+
+
+Technologies Used
+Frontend (Mobile): Dart, Flutter (Android)
+Backend: Node.js, Express.js
+Database & Services: Firebase Firestore, Firebase Authentication, Firebase Cloud Messaging
+Development Tools: Git, GitHub
+
 ---
 
 ## 🧱 Tech Stack
