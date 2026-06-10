@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "399061373796",
+    "project_id": "medlink-2d973",
+    "storage_bucket": "medlink-2d973.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399061373796:android:f32ebc2225d032b4156071",
+        "android_client_info": {
+          "package_name": "com.example.medlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399061373796-i77g9kja0rge6aqttlusnohadonf576h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medlink",
+            "certificate_hash": "d29af6ae7519e78b5eacca5083966fc2c8f54c59"
+          }
+        },
+        {
+          "client_id": "399061373796-le22q0sdl8cph9tuesubf8s7olki399j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAb9hvwNJMv1AgGU8fYBHNfGWeADNn3Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399061373796-le22q0sdl8cph9tuesubf8s7olki399j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "399061373796-duj3sund0934dpreu2u3to4c27dlp5mj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medlink"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
