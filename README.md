@@ -31,30 +31,51 @@
 ### ❤️ 6) DonorLink – Connect for Good
 - Share **organ/blood donation intent** or family-approved donor details.
 - Browse donor listings and **contact seamlessly** in times of need.
+## Key Features
 
-Key Features
-Centralized digital health records management
-Blood donor-recipient matching system
-Anonymous health assistance and support requests
-Medication and appointment reminders
-Smart hospital and healthcare facility search
-Secure authentication and real-time notifications
+### Centralized Health Records Management
+Store, organize, and access medical records securely through a unified digital platform.
 
+### Blood Donor–Recipient Matching
+Facilitate efficient connections between blood donors and recipients to support urgent healthcare needs.
 
-Technologies Used
-Frontend (Mobile): Dart, Flutter (Android)
-Backend: Node.js, Express.js
-Database & Services: Firebase Firestore, Firebase Authentication, Firebase Cloud Messaging
-Development Tools: Git, GitHub
+### Anonymous Assistance Platform
+Enable users to seek or provide health-related assistance while maintaining privacy and anonymity.
+
+### Medication and Appointment Reminders
+Help users stay on track with medications, medical appointments, and routine health checkups through automated reminders.
+
+### Smart Hospital Search
+Discover nearby hospitals and healthcare facilities using intelligent location-based search capabilities.
+
+### Secure Authentication
+Ensure data privacy and account security through Firebase Authentication.
+
+### Real-Time Notifications
+Deliver timely updates and alerts using Firebase Cloud Messaging (FCM).
 
 ---
 
-## 🧱 Tech Stack
+## Technology Stack
 
-- **Frontend:** Flutter (Dart)  
-- **Backend/Database:** Firebase (Firestore, Auth, Storage)  
-- **Authentication:** Firebase Auth *(Email/Password, Phone)*  
-- **Maps & Location:** GeoApify API
+| Category | Technologies |
+|----------|-------------|
+| Mobile Application | Flutter, Dart |
+| Backend | Node.js, Express.js |
+| Database | Firebase Firestore |
+| Authentication | Firebase Authentication |
+| Notifications | Firebase Cloud Messaging (FCM) |
+| Version Control | Git, GitHub |
+
+---
+
+## About MedLink
+
+**MedLink** is a healthcare platform designed to simplify access to essential healthcare services through a single application. It combines digital health record management, blood donor matching, anonymous assistance, medication reminders, and hospital discovery to create a more connected and accessible healthcare experience.
+
+**Tagline:** *Where Health Meets Help—Anonymously and Effortlessly.*
+---
+
 
 📥 **Download APK:**  
 [https://drive.google.com/file/d/174f87yrpXgP-hQfmDzlzVE9zIlKP_0ia/view?usp=sharing](https://drive.google.com/file/d/174f87yrpXgP-hQfmDzlzVE9zIlKP_0ia/view?usp=sharing)
